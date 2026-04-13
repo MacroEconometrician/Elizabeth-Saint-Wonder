@@ -1,1 +1,5 @@
-Hello, Welcome to my Econometrics portfolio. This code repository contains examples of codes I have written for educational and project-based purposes. I am happy to collaborate. Email me at: saintwondertemilolu@gmail.com
+Hello, Welcome to my Econometrics portfolio. 
+This code repository serves as a central portfolio of my applied econometrics, Machine Learning, and deep learning economic projects targetted at distilling complex economic data for insightful decision-making. 
+Projects: 
+Econometrics Fundamentals: A python code, explaining the concepts of the GUASS MARKOV assumptions 
+Link Here: 
