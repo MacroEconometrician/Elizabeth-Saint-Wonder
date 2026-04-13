@@ -1,1 +1,1 @@
-
+Hello, Welcome to my Econometrics portfolio. This code repository contains examples of codes I have written for educational and project-based purposes. I am happy to collaborate. Email me at: saintwondertemilolu@gmail.com
