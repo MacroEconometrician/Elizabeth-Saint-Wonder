@@ -1,5 +1,5 @@
 Hello, Welcome to my Econometrics portfolio. 
-This code repository serves as a central portfolio of my applied econometrics, Machine Learning, and deep learning economic projects targetted at distilling complex economic data for insightful decision-making. 
+This code repository serves as a central portfolio of my applied econometrics, Machine Learning, and deep learning economic projects targeted at distilling complex economic data for insightful decision-making. 
 --
 Projects: 
 1. Econometrics Fundamentals: A python code, explaining the concepts of the GUASS MARKOV assumptions 
