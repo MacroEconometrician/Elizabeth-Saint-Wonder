@@ -1,5 +1,5 @@
 Hello, Welcome to my Econometrics portfolio. 
-This code repository serves as a central portfolio of my applied econometrics, Machine Learning, and deep learning economic projects targeted at distilling complex economic data for insightful decision-making. 
+This code repository serves as a central portfolio of my Applied Econometrics, Quantitative Research, Financial Modelling, Machine Learning, and deep learning economic projects targeted at distilling complex economic data for insightful decision-making. 
 --
 Projects: 
 1. Quantitative Finance | Quant Research | Scenario Analysis | Financial Modelling | Econometrics Methods --- LInk Jere [ https://github.com/MacroEconometrician/Monte-Carlo_Simulation.git ]
